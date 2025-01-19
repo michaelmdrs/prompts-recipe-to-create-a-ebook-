@@ -35,3 +35,7 @@
   <li>Imagens geradas a partir do Gamma</li>
 </ul>
 <h1>📚 Materiais</h1>
+<li>ebook gerado durante as aulas em <code>output</code></li>
+<h1>🛠️ Instruções de execução</h1>
+<p>Utilize os prompts acima na ferramentas sugerida para gerar o material base. Não é necessário utilizar ferramentas adicionais visto que no Gamma.app você já faz todo processo criativo.</p>
+<p>Ao criar a conta no Gamma.app você terá um limite de 400 moedas para utilizar, após isso terá que pagar.</p>
